@@ -22,7 +22,7 @@ namespace pr1_1
     public enum Genders : int { Male, Female };
   }
 
-  class Program
+  class pr1_2
   {
     static void Main(string[] args)
     {
